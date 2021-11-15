@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MaximumEducationInternTestApp</string>
+
+    <string name="newsListFragment">NewsListFragment</string>
+    <string name="newsDetailsFragment">NewsDetailsFragment</string>
+    <string name="newsGalleryFragment">GalleryFragment</string>
+    <string name="hostTransitionNameTag">hostTransitionNameTag</string>
+    <string name="imageTransitionNameTag">imageTransitionNameTag</string>
+    <string name="titleTransitionNameTag">titleTransitionNameTag</string>
+
+    <string name="no_connection_warning">NO Connection!</string>
+    <string name="loading_indicator">Loading</string>
+
+
+    <string name="no_title">No Title</string>
+
+
+<!--    network errors-->
+    <string name="no_network_DB_load">Loading from DB…</string>
+    <string name="net_err_basic">Network Error!</string>
+    <string name="net_err_1xx">1xx informational response</string>
+    <string name="net_err_2xx">Network OK, but broken data!</string>
+    <string name="net_err_4xx">4xx client network error!</string>
+    <string name="net_err_5xx">5xx server error!</string>
+</resources>
